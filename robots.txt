@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-jm052c.koi888.cfd/sitemap.xml
